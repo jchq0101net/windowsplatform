@@ -1,0 +1,2 @@
+# windowsplatform
+windows platform application
